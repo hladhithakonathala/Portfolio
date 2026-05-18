@@ -4,7 +4,8 @@ A modern personal portfolio website built using **HTML, CSS, and JavaScript** wi
 
 ## ✨ Live Preview
 
-🔗 Portfolio:
+🔗 Portfolio: https://hladhithakonathala.github.io/Portfolio/
+
 🔗 GitHub: https://github.com/Hladhithakonathala
 
 
